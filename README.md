@@ -37,4 +37,4 @@ of this public website repository. Update the guide and screenshots when the ass
 changes. No Asset Store listing URL is configured until a real listing is available.
 
 The 2D interactive diagram is illustrative and plays no audio. It does not
-measure runtime performance. Wwise validation limitations are stated on the page.
+measure runtime performance. The page records the validated Wwise, Unity and player configuration.
