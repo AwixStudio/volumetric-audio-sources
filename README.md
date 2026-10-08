@@ -28,7 +28,7 @@ http://127.0.0.1:8765/. You can also open index.html directly for a basic previe
 - index.html: product text, setup instructions, contact and links.
 - style.css: typography, colors and responsive layout.
 - site.js: navigation, backend selection and the schematic closest-point demo.
-- hero.png: title-only promotional artwork.
+- hero.png: promotional artwork with audio backend support logos and the Jobs + Burst performance badge.
 - *-inspector.png: real component screenshots from the English guide.
 - user-guide.pdf: current 10-page English documentation.
 
